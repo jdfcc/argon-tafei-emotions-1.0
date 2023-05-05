@@ -13,7 +13,7 @@ argon主题永雏塔菲表情包
 
 
 
-![img](C:/Users/Jdfcc/Downloads/argon-tafei-emotions-1.0/assets/1683300801942-c8feedf6-1549-474b-a754-4a704a4cfc5f.png)
+![img]https://raw.githubusercontent.com/jdfcc/argon-tafei-emotions-1.0/main/screenshot.png)
 
 
 
